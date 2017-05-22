@@ -1,4 +1,12 @@
 // Write your cade below:
-module.exports = function main() {
-  
-};
+function caclRemaindar() {};
+
+function caclSum() {};
+
+function caclSumInConditon() {};
+
+module.exports = {
+    caclRemaindar,
+    caclSum,
+    caclSumInConditon
+}
