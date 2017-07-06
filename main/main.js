@@ -3,7 +3,9 @@ function caclRemaindar() {};
 
 function caclSum() {};
 
-function caclSumInConditon() {};
+function caclSumInConditon() {
+    console.log("test");
+};
 
 module.exports = {
     caclRemaindar,
